@@ -1,0 +1,17 @@
+[
+  {
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "title": "Test Video 1",
+    "category": "test"
+  },
+  {
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Test Video 2",
+    "category": "test"
+  },
+  {
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "title": "Test Video 3",
+    "category": "test"
+  }
+]
